@@ -57,6 +57,6 @@ async def prefix(ctx,prefix):
         
           
 
-bot.run('NzkwODc0NDA3NTA5NTU3Mjc4.X-G9MA.CtWYzyUyoYmJSV2T6f6OT3SydeQ')
+bot.run('token')
 
     
